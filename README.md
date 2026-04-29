@@ -16,7 +16,7 @@
 
 ---
 
-[![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanlolzlife)](https://github.com/shanlolzlife/github-readme-stats)
+[![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanlolzlife&show_icons=true&theme=transparent)](https://github.com/shanlolzlife/github-readme-stats)
 
 ---
 
